@@ -26,6 +26,7 @@
                     field_component
                     full_slug
                     content
+                    lang
                   }
                 }
               }
